@@ -1,2 +1,2 @@
-# AllSportsAPI
-AllSports
+# AllSportsAPI ⚽,
+Getting the latest In-Game Results.
